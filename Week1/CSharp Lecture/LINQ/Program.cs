@@ -34,13 +34,13 @@ namespace LINQ
 
             // LINQ method
 
-            //1st = 2
+            //1st case = 2nd case
             foreach (var car in bmws)
             {
                 Console.WriteLine("{0} {1}", car.Model, car.VIN);
             }
 
-            //2nd
+            //2nd case
             var bmws1 = myCars.Where(p => p.Make == "BMW" && p.Year == 2010);
 
             foreach (var car in bmws1)
@@ -48,15 +48,14 @@ namespace LINQ
                 Console.WriteLine("{0} {1}", car.Model, car.VIN);
             }
 
-            //3rd = 4
-
+            //3rd case = 4th
             foreach (var car in orderedCars)
             {
                 Console.WriteLine("{0} {1}", car.Year, car.Model, car.VIN);
             }
 
 
-            //4th
+            //4th case
             var orderedCars2 = myCars.OrderByDescending(p => p.Year);
 
             foreach (var car in orderedCars2)
@@ -65,6 +64,43 @@ namespace LINQ
             }
 
 
+            //5th  case = 6th case
+            var firstBMW = myCars.First(p => p.Make == "BMW");
+            Console.WriteLine(firstBMW.VIN);
+
+            //6th case
+            var firstBMW2 = myCars.OrderByDescending(p => p.Year).First(p => p.Make == "BMW");
+            Console.WriteLine(firstBMW2.VIN);
+
+            //7th case
+            Console.WriteLine(myCars.TrueForAll(p => p.Year > 2007));
+
+            //8th case
+            myCars.ForEach(p => p.StickerPrice -= 3000);
+            myCars.ForEach(p => Console.WriteLine("{0} {1:C}", p.VIN, p.StickerPrice));
+
+            //9th case
+            Console.WriteLine(myCars.Exists(p => p.Model == "745li"));
+            Console.WriteLine(myCars.Sum(p => p.StickerPrice));
+
+            //10th case
+            Console.WriteLine(myCars.GetType());
+            var orderedCars3 = myCars.OrderByDescending(p => p.Year);
+            Console.WriteLine(orderedCars3.GetType());
+
+            //11th case
+            var bmws2 = myCars.Where(p => p.Make == "BMW" && p.Year == 2010);
+            Console.WriteLine(bmws2.GetType());
+
+            //12th case
+            var newCars = from car in myCars
+                          where car.Make == "BMW"
+                          && car.Year == 2010
+                          select new { car.Make, car.Model };
+            Console.WriteLine(newCars.GetType());
+
+            
+            Console.ReadLine();
 
         }
     }
