@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "Week1\CSharp Lectur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchAndEnums", "Week1\CSharp Lecture\SwitchAndEnums\SwitchAndEnums.csproj", "{CD14CAC7-D0C8-492B-99CC-5A5E13F48EDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerElapsedExample", "Week1\CSharp Lecture\TimerElapsedExample\TimerElapsedExample.csproj", "{54E7A975-9A13-4B78-8B42-5069A367AF66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +74,10 @@ Global
 		{CD14CAC7-D0C8-492B-99CC-5A5E13F48EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD14CAC7-D0C8-492B-99CC-5A5E13F48EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD14CAC7-D0C8-492B-99CC-5A5E13F48EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +93,7 @@ Global
 		{4006185E-19B3-4BF0-9332-A724F5DFD3C2} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
 		{CBAA573A-E563-403E-AE30-A1C7CF62BB39} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
 		{CD14CAC7-D0C8-492B-99CC-5A5E13F48EDE} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
+		{54E7A975-9A13-4B78-8B42-5069A367AF66} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
