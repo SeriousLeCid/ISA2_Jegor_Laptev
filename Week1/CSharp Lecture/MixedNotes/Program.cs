@@ -40,6 +40,12 @@ namespace MixedNotes
 
             } while (choise); // если True - выполняктся этот блок снова
 
+
+            //Namespaces
+
+            System.Console.WriteLine(); //System - Namespace
+
+
             Console.ReadLine();
         }
     }
