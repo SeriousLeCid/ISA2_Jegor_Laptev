@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Net;
+using MyClassLibrary;
 
 namespace NetClassesAndNamespaces
 {
@@ -19,11 +20,16 @@ namespace NetClassesAndNamespaces
             
 
 
-            WebClient client = new WebClient();
-            string reply = client.DownloadString("https://www.shortwalk.app/");
+            //WebClient client = new WebClient();
+            //string reply = client.DownloadString("https://www.shortwalk.app/");
 
-            Console.WriteLine(reply);
-            System.IO.File.WriteAllText(@"C:\ShortWalkHTML\HTML.txt", reply);
+            //Console.WriteLine(reply);
+            //System.IO.File.WriteAllText(@"C:\ShortWalkHTML\HTML.txt", reply);
+
+
+            Scrape myScrape = new Scrape();
+            string value = myScrape.ScrapeWebpage("https://www.shortwalk.app/");
+            Console.WriteLine(value);
 
             Console.ReadLine();
         }
