@@ -33,6 +33,105 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchAndEnums", "Week1\CSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerElapsedExample", "Week1\CSharp Lecture\TimerElapsedExample\TimerElapsedExample.csproj", "{54E7A975-9A13-4B78-8B42-5069A367AF66}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.FirstHTMLPage", "2.FirstHTMLPage", "{E2EF870C-0EDA-4ED8-B1A8-B2F901392D43}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\2.FirstHTMLPage\http-message.gif = Week2\HTMLAndCSSLectures\2.FirstHTMLPage\http-message.gif
+		Week2\HTMLAndCSSLectures\2.FirstHTMLPage\Lesson02.html = Week2\HTMLAndCSSLectures\2.FirstHTMLPage\Lesson02.html
+		Week2\HTMLAndCSSLectures\2.FirstHTMLPage\www-diagram.gif = Week2\HTMLAndCSSLectures\2.FirstHTMLPage\www-diagram.gif
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.StylingByCSS", "3.StylingByCSS", "{DD5FDCF7-3D78-4589-8887-90BC8F1D4813}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\3.StylingByCSS\http-message.gif = Week2\HTMLAndCSSLectures\3.StylingByCSS\http-message.gif
+		Week2\HTMLAndCSSLectures\3.StylingByCSS\Lesson03.html = Week2\HTMLAndCSSLectures\3.StylingByCSS\Lesson03.html
+		Week2\HTMLAndCSSLectures\3.StylingByCSS\Styles.css = Week2\HTMLAndCSSLectures\3.StylingByCSS\Styles.css
+		Week2\HTMLAndCSSLectures\3.StylingByCSS\www-diagram.gif = Week2\HTMLAndCSSLectures\3.StylingByCSS\www-diagram.gif
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.ParagraphsAndText", "5.ParagraphsAndText", "{297BEC5E-214C-4DC9-ACF6-7816BED1D877}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\5.ParagraphsAndText\another.html = Week2\HTMLAndCSSLectures\5.ParagraphsAndText\another.html
+		Week2\HTMLAndCSSLectures\5.ParagraphsAndText\Lesson05.html = Week2\HTMLAndCSSLectures\5.ParagraphsAndText\Lesson05.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.StructureOfDocument", "6.StructureOfDocument", "{C40A9CE8-D819-4085-9269-7830A9791FE4}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\6.StructureOfDocument\lesson06.html = Week2\HTMLAndCSSLectures\6.StructureOfDocument\lesson06.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.Lists", "8.Lists", "{D1537180-7A68-4AAB-99EC-88426C74A148}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\8.Lists\Lesson08.html = Week2\HTMLAndCSSLectures\8.Lists\Lesson08.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.Tables", "9.Tables", "{ADA21E7D-9849-4DE0-9324-A38618892064}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\9.Tables\Lesson09.html = Week2\HTMLAndCSSLectures\9.Tables\Lesson09.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10.Forms", "10.Forms", "{7D4AC85C-B5DA-47C7-B0B1-58C32D924B73}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\10.Forms\Lesson10.html = Week2\HTMLAndCSSLectures\10.Forms\Lesson10.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.TextStyle", "13.TextStyle", "{36591526-2025-43C1-B8C9-4C9B38E4DA3A}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\13.TextStyle\Lesson13.html = Week2\HTMLAndCSSLectures\13.TextStyle\Lesson13.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14.ColoursAndBackgrounds", "14.ColoursAndBackgrounds", "{C66E56C8-470A-479C-BE6D-8668299C3C7B}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\14.ColoursAndBackgrounds\Lesson14.html = Week2\HTMLAndCSSLectures\14.ColoursAndBackgrounds\Lesson14.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15.ListAndTables", "15.ListAndTables", "{1E9B692E-4C12-4932-BD64-2975FB336DA2}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\15.ListAndTables\Lesson15.html = Week2\HTMLAndCSSLectures\15.ListAndTables\Lesson15.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16.BoxStyles", "16.BoxStyles", "{2123BF04-702B-4BB3-8A99-A8CEF84172AE}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\16.BoxStyles\Lesson16.html = Week2\HTMLAndCSSLectures\16.BoxStyles\Lesson16.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17.CSSFontFace", "17.CSSFontFace", "{86AB0811-46BE-48A5-8227-952DF06F23BE}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.eot = Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.eot
+		Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.svg = Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.svg
+		Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.ttf = Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.ttf
+		Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.woff = Week2\HTMLAndCSSLectures\17.CSSFontFace\GoodDog-webfont.woff
+		Week2\HTMLAndCSSLectures\17.CSSFontFace\Lesson17.html = Week2\HTMLAndCSSLectures\17.CSSFontFace\Lesson17.html
+		Week2\HTMLAndCSSLectures\17.CSSFontFace\styles.css = Week2\HTMLAndCSSLectures\17.CSSFontFace\styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.VideoInHTML", "18.VideoInHTML", "{97F3AF8D-2E96-4125-BA20-4B93F892555F}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\18.VideoInHTML\30seconds.mp4 = Week2\HTMLAndCSSLectures\18.VideoInHTML\30seconds.mp4
+		Week2\HTMLAndCSSLectures\18.VideoInHTML\Lesson18.html = Week2\HTMLAndCSSLectures\18.VideoInHTML\Lesson18.html
+		Week2\HTMLAndCSSLectures\18.VideoInHTML\poster.jpg = Week2\HTMLAndCSSLectures\18.VideoInHTML\poster.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19.CanvasAnimation", "19.CanvasAnimation", "{5B3D33BC-1EBB-4CE8-B7A2-DE6C5B1DE793}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\19.CanvasAnimation\Lesson19.html = Week2\HTMLAndCSSLectures\19.CanvasAnimation\Lesson19.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20.SVG", "20.SVG", "{60F0F0CB-0F3C-4E4B-93C9-7B8122F4830D}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\20.SVG\copy_paste_svg.html = Week2\HTMLAndCSSLectures\20.SVG\copy_paste_svg.html
+		Week2\HTMLAndCSSLectures\20.SVG\external_link.html = Week2\HTMLAndCSSLectures\20.SVG\external_link.html
+		Week2\HTMLAndCSSLectures\20.SVG\Illustrator_SVG.png.png = Week2\HTMLAndCSSLectures\20.SVG\Illustrator_SVG.png.png
+		Week2\HTMLAndCSSLectures\20.SVG\svg_interactivity.html = Week2\HTMLAndCSSLectures\20.SVG\svg_interactivity.html
+		Week2\HTMLAndCSSLectures\20.SVG\Test.svg = Week2\HTMLAndCSSLectures\20.SVG\Test.svg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "subfolder", "subfolder", "{3509A924-2876-4A67-817F-F256BAE3DF23}"
+	ProjectSection(SolutionItems) = preProject
+		Week2\HTMLAndCSSLectures\5.ParagraphsAndText\subfolder\subfolder.html = Week2\HTMLAndCSSLectures\5.ParagraphsAndText\subfolder\subfolder.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +194,22 @@ Global
 		{CBAA573A-E563-403E-AE30-A1C7CF62BB39} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
 		{CD14CAC7-D0C8-492B-99CC-5A5E13F48EDE} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
 		{54E7A975-9A13-4B78-8B42-5069A367AF66} = {9736A6D9-1B4B-44C7-BE83-C427172554A7}
+		{E2EF870C-0EDA-4ED8-B1A8-B2F901392D43} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{DD5FDCF7-3D78-4589-8887-90BC8F1D4813} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{297BEC5E-214C-4DC9-ACF6-7816BED1D877} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{C40A9CE8-D819-4085-9269-7830A9791FE4} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{D1537180-7A68-4AAB-99EC-88426C74A148} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{ADA21E7D-9849-4DE0-9324-A38618892064} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{7D4AC85C-B5DA-47C7-B0B1-58C32D924B73} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{36591526-2025-43C1-B8C9-4C9B38E4DA3A} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{C66E56C8-470A-479C-BE6D-8668299C3C7B} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{1E9B692E-4C12-4932-BD64-2975FB336DA2} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{2123BF04-702B-4BB3-8A99-A8CEF84172AE} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{86AB0811-46BE-48A5-8227-952DF06F23BE} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{97F3AF8D-2E96-4125-BA20-4B93F892555F} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{5B3D33BC-1EBB-4CE8-B7A2-DE6C5B1DE793} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{60F0F0CB-0F3C-4E4B-93C9-7B8122F4830D} = {CF9F3299-A6C6-4F38-A0C9-EA76A3F6A1AA}
+		{3509A924-2876-4A67-817F-F256BAE3DF23} = {297BEC5E-214C-4DC9-ACF6-7816BED1D877}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
