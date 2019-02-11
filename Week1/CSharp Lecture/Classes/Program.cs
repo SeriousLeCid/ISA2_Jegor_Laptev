@@ -21,6 +21,8 @@ namespace Classes
             Car myThirdCar;
             myThirdCar = myCar;
 
+
+
             myThirdCar.Color = "White"; //Поменялось как и в myCar, так и в myThirdCar
 
             Car.WriteSomeTextInConsole("SomeText"); // Static Method - можно использовать везде 
