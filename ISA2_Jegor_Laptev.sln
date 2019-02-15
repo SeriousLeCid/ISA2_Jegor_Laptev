@@ -19,6 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{798E5226-5
 	ProjectSection(SolutionItems) = preProject
 		Logs\1st Week Logs.xlsx = Logs\1st Week Logs.xlsx
 		Logs\2nd Week Logs.xlsx = Logs\2nd Week Logs.xlsx
+		Logs\3rd Week Logs.xlsx = Logs\3rd Week Logs.xlsx
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetClassesAndNamespaces", "Week1\CSharp Lecture\NetClassesAndNamespaces\NetClassesAndNamespaces.csproj", "{CCE9C1D7-3485-4911-8887-63F074CCDF40}"
@@ -131,6 +132,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "subfolder", "subfolder", "{
 	ProjectSection(SolutionItems) = preProject
 		Week2\HTMLAndCSSLectures\5.ParagraphsAndText\subfolder\subfolder.html = Week2\HTMLAndCSSLectures\5.ParagraphsAndText\subfolder\subfolder.html
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3", "Week3", "{2DF094D7-F4FA-47EB-A414-8A8230FF84AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
