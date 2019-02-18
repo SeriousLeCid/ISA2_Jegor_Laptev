@@ -142,6 +142,71 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Variables", "Variables", "{
 		Week3\JavaScript\Variables\Lesson04.js = Week3\JavaScript\Variables\Lesson04.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{43B545E4-0D7C-46C3-8D7B-C883F78283BB}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Arrays\arrays.js = Week3\JavaScript\Arrays\arrays.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicsScope", "BasicsScope", "{03E7D760-E0AB-49EF-8322-817BF3413E7C}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\BasicsScope\scope-basics.js = Week3\JavaScript\BasicsScope\scope-basics.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Closures", "Closures", "{BBE7C33A-9AAE-4153-9069-B43AE38F1AC8}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Closures\closures.js = Week3\JavaScript\Closures\closures.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoercionAndConversion", "CoercionAndConversion", "{6E725CBC-2505-4D54-B5EF-0F7016E151ED}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\CoercionAndConversion\coercion.js = Week3\JavaScript\CoercionAndConversion\coercion.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataTypes", "DataTypes", "{F61B5473-0AA5-4D8B-A9E2-43B61324946D}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\DataTypes\Lesson05.js = Week3\JavaScript\DataTypes\Lesson05.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecisionStatement", "DecisionStatement", "{84D86D23-AB89-41E7-8972-FBEEA41C932B}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\DecisionStatement\decisions.js = Week3\JavaScript\DecisionStatement\decisions.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Expressions", "Expressions", "{B12489FA-83DD-4E1D-AA3A-007082DFDC00}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Expressions\expressions.js = Week3\JavaScript\Expressions\expressions.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionDeclaration", "FunctionDeclaration", "{8ED0DD49-DDCE-4D3C-8CC8-7D27EF56F042}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\FunctionDeclaration\function-declarations.js = Week3\JavaScript\FunctionDeclaration\function-declarations.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionExpressions", "FunctionExpressions", "{D85960FA-17F6-4764-81D1-DB3463B709D2}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\FunctionExpressions\function-expressions.js = Week3\JavaScript\FunctionExpressions\function-expressions.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionsReturning", "FunctionsReturning", "{2CDA1277-F6D0-490E-ABE7-BA1B1480352C}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\FunctionsReturning\returning-functions.js = Week3\JavaScript\FunctionsReturning\returning-functions.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IterationStatement", "IterationStatement", "{4A2C1F25-DEA0-438B-993F-5E83115A1614}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\IterationStatement\iterations.js = Week3\JavaScript\IterationStatement\iterations.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ModulePattern", "ModulePattern", "{467F7E7A-B11D-4CE7-BA86-2D634839822A}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\ModulePattern\module-pattern.js = Week3\JavaScript\ModulePattern\module-pattern.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectLiterals", "ObjectLiterals", "{FCD9C81E-6282-4B6E-9ECD-E8743FE0E55E}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\ObjectLiterals\object.js = Week3\JavaScript\ObjectLiterals\object.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,6 +287,19 @@ Global
 		{3509A924-2876-4A67-817F-F256BAE3DF23} = {297BEC5E-214C-4DC9-ACF6-7816BED1D877}
 		{D02B4429-6785-422F-AF7B-1BACA237E642} = {2DF094D7-F4FA-47EB-A414-8A8230FF84AF}
 		{B3622D68-B3CA-4C1B-AA23-BC7753B2EBAC} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{43B545E4-0D7C-46C3-8D7B-C883F78283BB} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{03E7D760-E0AB-49EF-8322-817BF3413E7C} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{BBE7C33A-9AAE-4153-9069-B43AE38F1AC8} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{6E725CBC-2505-4D54-B5EF-0F7016E151ED} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{F61B5473-0AA5-4D8B-A9E2-43B61324946D} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{84D86D23-AB89-41E7-8972-FBEEA41C932B} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{B12489FA-83DD-4E1D-AA3A-007082DFDC00} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{8ED0DD49-DDCE-4D3C-8CC8-7D27EF56F042} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{D85960FA-17F6-4764-81D1-DB3463B709D2} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{2CDA1277-F6D0-490E-ABE7-BA1B1480352C} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{4A2C1F25-DEA0-438B-993F-5E83115A1614} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{467F7E7A-B11D-4CE7-BA86-2D634839822A} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{FCD9C81E-6282-4B6E-9ECD-E8743FE0E55E} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
