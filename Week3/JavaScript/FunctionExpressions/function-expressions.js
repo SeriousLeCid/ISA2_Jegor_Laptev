@@ -4,7 +4,9 @@ setTimeout(function () {
     }, 2000);
 */
 
-/*
+
+
+
 let counter = 0;
 function timeout() {
     setTimeout(function () {
@@ -16,8 +18,8 @@ function timeout() {
 timeout();
 // ctrl + c
 
-*/
+/*
 
 (function () {
     console.log('Immediately Invoked Function Expression (IIFE)');
-})();
+})();*/

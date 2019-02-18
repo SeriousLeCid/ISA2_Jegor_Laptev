@@ -207,6 +207,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectLiterals", "ObjectLit
 		Week3\JavaScript\ObjectLiterals\object.js = Week3\JavaScript\ObjectLiterals\object.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "thisKeyword", "thisKeyword", "{D2254EF6-7F49-4BD3-BEDA-6FD6FCFB4999}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\thisKeyword\this-keyword.html = Week3\JavaScript\thisKeyword\this-keyword.html
+		Week3\JavaScript\thisKeyword\this-keyword.js = Week3\JavaScript\thisKeyword\this-keyword.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Destructuring", "Destructuring", "{BEAC7F41-2F1B-4222-A352-0929ED6FA723}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Destructuring\destructuring.js = Week3\JavaScript\Destructuring\destructuring.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemplateLiterals", "TemplateLiterals", "{48CA935A-D231-465B-AA0A-A92C6C36746B}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\TemplateLiterals\template-literals.js = Week3\JavaScript\TemplateLiterals\template-literals.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,6 +316,9 @@ Global
 		{4A2C1F25-DEA0-438B-993F-5E83115A1614} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{467F7E7A-B11D-4CE7-BA86-2D634839822A} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{FCD9C81E-6282-4B6E-9ECD-E8743FE0E55E} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{D2254EF6-7F49-4BD3-BEDA-6FD6FCFB4999} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{BEAC7F41-2F1B-4222-A352-0929ED6FA723} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{48CA935A-D231-465B-AA0A-A92C6C36746B} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
