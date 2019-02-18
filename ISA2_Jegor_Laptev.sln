@@ -273,6 +273,39 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringMethods", "StringMeth
 		Week3\JavaScript\StringMethods\strings.js = Week3\JavaScript\StringMethods\strings.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArrayMethods", "ArrayMethods", "{F6301339-FA79-476D-9006-D7A8BC1B18B1}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\ArrayMethods\array-methods.js = Week3\JavaScript\ArrayMethods\array-methods.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOMNodes", "DOMNodes", "{73CF29BF-20CF-42E4-AB64-933E0B2BEC94}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\DOMNodes\dom-nodes.css = Week3\JavaScript\DOMNodes\dom-nodes.css
+		Week3\JavaScript\DOMNodes\dom-nodes.html = Week3\JavaScript\DOMNodes\dom-nodes.html
+		Week3\JavaScript\DOMNodes\dom-nodes.js = Week3\JavaScript\DOMNodes\dom-nodes.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOM", "DOM", "{549A8202-A499-4386-9BBF-2CC3DCA1111D}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\DOM\dom-intro.html = Week3\JavaScript\DOM\dom-intro.html
+		Week3\JavaScript\DOM\dom-intro.js = Week3\JavaScript\DOM\dom-intro.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HandlingErrors", "HandlingErrors", "{17C51F50-9569-4338-B3E1-A10D005D136D}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\HandlingErrors\handling-errors.js = Week3\JavaScript\HandlingErrors\handling-errors.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operators", "Operators", "{B7077ACE-E827-4E44-A1B7-1B8C8CF2C248}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Operators\operators.js = Week3\JavaScript\Operators\operators.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RevealingModulePattern", "RevealingModulePattern", "{EB373B61-370E-4423-8516-59BBA825D698}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\RevealingModulePattern\revealing-module.js = Week3\JavaScript\RevealingModulePattern\revealing-module.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +412,12 @@ Global
 		{0B72E794-24E5-476F-B886-8EA4E7F8798F} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{3B4ABB2E-DE9E-4D2B-9CF0-7CE278DB6ED9} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{32FDAE57-DFB8-4C27-AFC2-E5D2EBA89190} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{F6301339-FA79-476D-9006-D7A8BC1B18B1} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{73CF29BF-20CF-42E4-AB64-933E0B2BEC94} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{549A8202-A499-4386-9BBF-2CC3DCA1111D} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{17C51F50-9569-4338-B3E1-A10D005D136D} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{B7077ACE-E827-4E44-A1B7-1B8C8CF2C248} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{EB373B61-370E-4423-8516-59BBA825D698} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
