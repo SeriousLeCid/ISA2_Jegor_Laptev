@@ -238,6 +238,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionConstructors", "Fun
 		Week3\JavaScript\FunctionConstructors\constructors.js = Week3\JavaScript\FunctionConstructors\constructors.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectsAndPrototype", "ObjectsAndPrototype", "{60931CFC-B5D4-4A85-B925-8D66FA061510}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\ObjectsAndPrototype\prototypes.js = Week3\JavaScript\ObjectsAndPrototype\prototypes.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -337,6 +342,7 @@ Global
 		{4B66E3ED-B3C7-490F-8E64-5DC56730F2D8} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{0FC3350C-DE57-4777-91F2-15A7DD8C29BC} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{ADCC8A97-4DBC-454E-94B3-8465509B11F5} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{60931CFC-B5D4-4A85-B925-8D66FA061510} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
