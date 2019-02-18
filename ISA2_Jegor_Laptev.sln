@@ -223,6 +223,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemplateLiterals", "Templat
 		Week3\JavaScript\TemplateLiterals\template-literals.js = Week3\JavaScript\TemplateLiterals\template-literals.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegularExpressions", "RegularExpressions", "{4B66E3ED-B3C7-490F-8E64-5DC56730F2D8}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\RegularExpressions\regex.js = Week3\JavaScript\RegularExpressions\regex.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Natives", "Natives", "{0FC3350C-DE57-4777-91F2-15A7DD8C29BC}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Natives\natives.js = Week3\JavaScript\Natives\natives.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionConstructors", "FunctionConstructors", "{ADCC8A97-4DBC-454E-94B3-8465509B11F5}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\FunctionConstructors\constructors.js = Week3\JavaScript\FunctionConstructors\constructors.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -319,6 +334,9 @@ Global
 		{D2254EF6-7F49-4BD3-BEDA-6FD6FCFB4999} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{BEAC7F41-2F1B-4222-A352-0929ED6FA723} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{48CA935A-D231-465B-AA0A-A92C6C36746B} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{4B66E3ED-B3C7-490F-8E64-5DC56730F2D8} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{0FC3350C-DE57-4777-91F2-15A7DD8C29BC} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{ADCC8A97-4DBC-454E-94B3-8465509B11F5} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
