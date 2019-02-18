@@ -258,6 +258,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArrowFunctions", "ArrowFunc
 		Week3\JavaScript\ArrowFunctions\arrow-functions.js = Week3\JavaScript\ArrowFunctions\arrow-functions.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Null", "Null", "{0B72E794-24E5-476F-B886-8EA4E7F8798F}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Null\null.js = Week3\JavaScript\Null\null.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dates", "Dates", "{3B4ABB2E-DE9E-4D2B-9CF0-7CE278DB6ED9}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Dates\dates.js = Week3\JavaScript\Dates\dates.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringMethods", "StringMethods", "{32FDAE57-DFB8-4C27-AFC2-E5D2EBA89190}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\StringMethods\strings.js = Week3\JavaScript\StringMethods\strings.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +376,9 @@ Global
 		{91BECF58-6B67-4A54-BCE1-F03AC81434CE} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{8E0C0491-326E-4051-96A6-20F410CF96F1} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{B0F717C3-C800-4BAE-9C60-CD3667769D55} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{0B72E794-24E5-476F-B886-8EA4E7F8798F} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{3B4ABB2E-DE9E-4D2B-9CF0-7CE278DB6ED9} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{32FDAE57-DFB8-4C27-AFC2-E5D2EBA89190} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
