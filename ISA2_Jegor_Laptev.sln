@@ -243,6 +243,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectsAndPrototype", "Obje
 		Week3\JavaScript\ObjectsAndPrototype\prototypes.js = Week3\JavaScript\ObjectsAndPrototype\prototypes.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes", "Classes", "{91BECF58-6B67-4A54-BCE1-F03AC81434CE}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\Classes\classes.js = Week3\JavaScript\Classes\classes.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TruthyAndFalsy", "TruthyAndFalsy", "{8E0C0491-326E-4051-96A6-20F410CF96F1}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\TruthyAndFalsy\falsy-truthy.js = Week3\JavaScript\TruthyAndFalsy\falsy-truthy.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArrowFunctions", "ArrowFunctions", "{B0F717C3-C800-4BAE-9C60-CD3667769D55}"
+	ProjectSection(SolutionItems) = preProject
+		Week3\JavaScript\ArrowFunctions\arrow-functions.js = Week3\JavaScript\ArrowFunctions\arrow-functions.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -343,6 +358,9 @@ Global
 		{0FC3350C-DE57-4777-91F2-15A7DD8C29BC} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{ADCC8A97-4DBC-454E-94B3-8465509B11F5} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{60931CFC-B5D4-4A85-B925-8D66FA061510} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{91BECF58-6B67-4A54-BCE1-F03AC81434CE} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{8E0C0491-326E-4051-96A6-20F410CF96F1} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{B0F717C3-C800-4BAE-9C60-CD3667769D55} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
