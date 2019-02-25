@@ -10,10 +10,10 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-            string myString = "My\"so-called\" life";
-            string myString2 = "What if I need a\nnew line?";
-            string myString3 = "Go to c:\\ drive";
-            string myString4 = @"Go to your c:\ drive";
+            //string myString = "My\"so-called\" life";
+            //string myString2 = "What if I need a\nnew line?";
+            //string myString3 = "Go to c:\\ drive";
+            //string myString4 = @"Go to your c:\ drive";
 
             string myString5 = String.Format("{1} = {0}", "First", "Second");
 

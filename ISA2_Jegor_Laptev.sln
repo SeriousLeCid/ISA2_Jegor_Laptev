@@ -20,6 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{798E5226-5
 		Logs\1st Week Logs.xlsx = Logs\1st Week Logs.xlsx
 		Logs\2nd Week Logs.xlsx = Logs\2nd Week Logs.xlsx
 		Logs\3rd Week Logs.xlsx = Logs\3rd Week Logs.xlsx
+		Logs\4th Week Logs.xlsx = Logs\4th Week Logs.xlsx
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetClassesAndNamespaces", "Week1\CSharp Lecture\NetClassesAndNamespaces\NetClassesAndNamespaces.csproj", "{CCE9C1D7-3485-4911-8887-63F074CCDF40}"
@@ -306,6 +307,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RevealingModulePattern", "R
 		Week3\JavaScript\RevealingModulePattern\revealing-module.js = Week3\JavaScript\RevealingModulePattern\revealing-module.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week4", "Week4", "{EF5A0663-D48E-45A0-93AB-7E253D86AB82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{B235C4F1-81C0-4461-84F3-2AE7D4AD1AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVC", "Week4\MVC\MyFirstMVC\MyFirstMVC.csproj", "{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -352,6 +359,10 @@ Global
 		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E7A975-9A13-4B78-8B42-5069A367AF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -418,6 +429,8 @@ Global
 		{17C51F50-9569-4338-B3E1-A10D005D136D} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{B7077ACE-E827-4E44-A1B7-1B8C8CF2C248} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{EB373B61-370E-4423-8516-59BBA825D698} = {D02B4429-6785-422F-AF7B-1BACA237E642}
+		{B235C4F1-81C0-4461-84F3-2AE7D4AD1AC8} = {EF5A0663-D48E-45A0-93AB-7E253D86AB82}
+		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751} = {B235C4F1-81C0-4461-84F3-2AE7D4AD1AC8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
