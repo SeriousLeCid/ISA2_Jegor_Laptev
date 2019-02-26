@@ -21,6 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{798E5226-5
 		Logs\2nd Week Logs.xlsx = Logs\2nd Week Logs.xlsx
 		Logs\3rd Week Logs.xlsx = Logs\3rd Week Logs.xlsx
 		Logs\4th Week Logs.xlsx = Logs\4th Week Logs.xlsx
+		Logs\5th Week Logs.xlsx = Logs\5th Week Logs.xlsx
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetClassesAndNamespaces", "Week1\CSharp Lecture\NetClassesAndNamespaces\NetClassesAndNamespaces.csproj", "{CCE9C1D7-3485-4911-8887-63F074CCDF40}"
@@ -311,7 +312,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week4", "Week4", "{EF5A0663
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{B235C4F1-81C0-4461-84F3-2AE7D4AD1AC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVC", "Week4\MVC\MyFirstMVC\MyFirstMVC.csproj", "{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstMVC", "Week4\MVC\MyFirstMVC\MyFirstMVC.csproj", "{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week5", "Week5", "{2AE90B1F-9423-41A5-A1CB-9E73FE0BF8CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVCwithEFCore", "MVCwithEFCore", "{9EE861CA-095E-41B0-ADF9-0EACCE2BEA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "Week5\MVCwithEFCore\ContosoUniversity\ContosoUniversity.csproj", "{9611D540-DE3E-4F15-8C66-EBCD367F27AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +370,10 @@ Global
 		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9611D540-DE3E-4F15-8C66-EBCD367F27AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9611D540-DE3E-4F15-8C66-EBCD367F27AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9611D540-DE3E-4F15-8C66-EBCD367F27AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9611D540-DE3E-4F15-8C66-EBCD367F27AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -431,6 +442,8 @@ Global
 		{EB373B61-370E-4423-8516-59BBA825D698} = {D02B4429-6785-422F-AF7B-1BACA237E642}
 		{B235C4F1-81C0-4461-84F3-2AE7D4AD1AC8} = {EF5A0663-D48E-45A0-93AB-7E253D86AB82}
 		{E75A34B6-2ECC-43E6-BE72-9D87A4DBC751} = {B235C4F1-81C0-4461-84F3-2AE7D4AD1AC8}
+		{9EE861CA-095E-41B0-ADF9-0EACCE2BEA86} = {2AE90B1F-9423-41A5-A1CB-9E73FE0BF8CB}
+		{9611D540-DE3E-4F15-8C66-EBCD367F27AE} = {9EE861CA-095E-41B0-ADF9-0EACCE2BEA86}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95115ACA-B400-44B9-8FC0-6A667A11C40C}
