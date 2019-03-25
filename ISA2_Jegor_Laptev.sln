@@ -24,6 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{798E5226-5
 		Logs\5th Week Logs.xlsx = Logs\5th Week Logs.xlsx
 		Logs\6th Week Logs.xlsx = Logs\6th Week Logs.xlsx
 		Logs\7th Week Logs.xlsx = Logs\7th Week Logs.xlsx
+		Logs\8th Week Logs.xlsx = Logs\8th Week Logs.xlsx
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetClassesAndNamespaces", "Week1\CSharp Lecture\NetClassesAndNamespaces\NetClassesAndNamespaces.csproj", "{CCE9C1D7-3485-4911-8887-63F074CCDF40}"
@@ -326,7 +327,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week7", "Week7", "{92D397A0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RazorPages", "RazorPages", "{729DC465-B794-44FA-82B9-671206B457E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontosoUniversity", "Week7\RazorPages\KontosoUniversity\KontosoUniversity.csproj", "{3230E522-FA71-4F66-8182-A475FDB9307A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KontosoUniversity", "Week7\RazorPages\KontosoUniversity\KontosoUniversity.csproj", "{3230E522-FA71-4F66-8182-A475FDB9307A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
